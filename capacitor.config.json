@@ -1,0 +1,6 @@
+{
+  "appId": "com.liam.ecosdeaethel",
+  "appName": "Ecos de Aethel",
+  "webDir": "www",
+  "android": { "backgroundColor": "#140e1c" }
+}
